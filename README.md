@@ -23,7 +23,6 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 Whether you are a JavaScript developer aiming to learn TypeScript, or an experienced TypeScript developer, this course will take your skills to the next level. From basic to advanced language constructs, test-driven development, object-oriented techniques, and industry-standard design patterns, you’ll learn how to get the most out of the TypeScript language.
 ### Technical Requirements
 This course has the following software requirements:<br/>
-System Requirements :-
 
 - Windows, Mac OS
 - 1.3 GHz or Higher
